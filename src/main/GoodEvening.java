@@ -6,7 +6,7 @@ public class GoodEvening {
 		// TODO Auto-generated method stub
 System.out.println("Good Evening Class!");
 	
-	System.out.println("My name is Maria");
+	System.out.println("My name is Dilmurat");
 	}
 
 }
